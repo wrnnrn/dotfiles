@@ -7,4 +7,4 @@ Aplicaciones a descargar:
 - Drivers Nvidia
 - Dolphin
 - Whatsapp
- 
+- Ligaduras en sistema
